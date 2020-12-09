@@ -7,8 +7,8 @@ verify_ssl = true
 yapf = "*"
 
 [packages]
-pytest = "*"
 allure-pytest = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.7"
