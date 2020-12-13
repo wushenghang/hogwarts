@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 
 import pytest
-from pythoncode.calculator import Calculator
+from hogwarts20201209.homework.pythoncode.calculator import Calculator
 
 
 class TestCalc:
